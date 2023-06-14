@@ -1,0 +1,10 @@
+.heading{
+    font-size: 30px;
+    background-color: red;
+    font-weight: bold;
+    text-align: center
+}
+
+.list{
+    font-family: 'Times New Roman', 'sans-serif';
+}
